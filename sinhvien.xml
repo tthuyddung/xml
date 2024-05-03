@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sinhviens>
+        
+    <sinhvien>
+                
+        <studID>2</studID>
+                
+        <name>Duong</name>
+                
+        <address>Da Nang</address>
+            
+    </sinhvien>
+        
+    <student>
+                
+        <studID>3</studID>
+                
+        <name>Thao</name>
+                
+        <address>Quang Nam</address>
+            
+    </student>
+    
+    <student>
+        <studID>4</studID>
+        <name>Thao</name>
+        <address>Da Nang</address>
+    </student>
+</sinhviens>
